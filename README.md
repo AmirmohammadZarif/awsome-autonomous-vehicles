@@ -45,10 +45,19 @@
 
 [Codes for Lane Detection](https://github.com/cardwing/Codes-for-Lane-Detection) (Repo)
 
-[Ultra Fast Lane Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) (Repo)
+### Ultra Fast Lane Detection
+- [Repo](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
 
-[Ultra Fast Lane Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) (Repo)
+[Ultra Fast Lane Detection](https://arxiv.org/pdf/2004.11757.pdf) (Paper)
 
+### CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution
+- [Repository](https://github.com/aliyun/conditional-lane-detection)
+- [Paper](https://arxiv.org/abs/2105.05003)
+
+### Lanedet
+- [Repository](https://github.com/Turoad/lanedet)
+
+[]() (Repo)
 []() (Repo)
 
 
