@@ -27,26 +27,30 @@
 
 [Europilot](https://github.com/marsauto/europilot) (Repo) 
 
-[End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf) (Paper) 
+### End to End Learning for Self-Driving Cars
+- [Paper](https://arxiv.org/pdf/1604.07316v1.pdf) (Paper) 
+- [Repository - Autopilot](https://github.com/akshaybahadur21/Autopilot) (Repo) 
+- [Repository - Autopilot Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow) (Repo) 
 
-[Autopilot](https://github.com/akshaybahadur21/Autopilot) (Repo) 
+### CLRNet: Cross Layer Refinement Network for Lane Detection
+- [Paper](https://arxiv.org/pdf/2203.10350.pdf)
+- [Repository](https://github.com/Turoad/clrnet) 
 
-[Autopilot Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow) (Repo) 
+### YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception
+- [Paper](https://arxiv.org/pdf/2208.11434v1.pdf)
+- [Repository](https://github.com/CAIC-AD/YOLOPv2)
 
-[CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/pdf/2203.10350.pdf) (Paper) 
+### Udacity Self Driving Car NanoDegree
+- [Repository](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree)
 
-[CLRNet: Cross Layer Refinement Network for Lane Detection](https://github.com/Turoad/clrnet) (Repo) 
+### Udacity: Self Driving Car
+- [Repository](https://github.com/ndrplz/self-driving-car)
 
-[YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception](https://arxiv.org/pdf/2208.11434v1.pdf) (Paper) 
-
-[Udacity Self Driving Car NanoDegree](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree) (Repo)
-
-[Udacity: Self Driving Car](https://github.com/ndrplz/self-driving-car) (Repo)
-
-[Codes for Lane Detection](https://github.com/cardwing/Codes-for-Lane-Detection) (Repo)
+### Codes for Lane Detection
+- [Repository](https://github.com/cardwing/Codes-for-Lane-Detection)
 
 ### Ultra Fast Lane Detection
-- [Repo](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
+- [Repository](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
 
 [Ultra Fast Lane Detection](https://arxiv.org/pdf/2004.11757.pdf) (Paper)
 
