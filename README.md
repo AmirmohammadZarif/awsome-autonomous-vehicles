@@ -17,48 +17,53 @@
 
 ## Perception
 ### Lane Detection
-[Lane Detection Algorithm for Intelligent Vehicles in Complex Road Conditions and Dynamic Environments](https://www.mdpi.com/1424-8220/19/14/3166) (Paper) 
 
-[An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) (Paper) 
+#### Lane Detection Algorithm for Intelligent Vehicles in Complex Road Conditions and Dynamic Environments
+- [Paper](https://www.mdpi.com/1424-8220/19/14/3166)
 
-[Copilot : Driving assistance on mobile devices](https://github.com/visualbuffer/copilot) (Repo) 
+#### An Empirical Evaluation of Deep Learning on Highway Driving
+- [Paper](https://arxiv.org/abs/1504.01716)
 
-[The Ultimate Guide to Real-Time Lane Detection Using OpenCV](https://automaticaddison.com/the-ultimate-guide-to-real-time-lane-detection-using-opencv/) (Guide)
+#### Copilot
+- [Repository](https://github.com/visualbuffer/copilot) 
 
-[Europilot](https://github.com/marsauto/europilot) (Repo) 
+#### The Ultimate Guide to Real-Time Lane Detection Using OpenCV
+- [Guide](https://automaticaddison.com/the-ultimate-guide-to-real-time-lane-detection-using-opencv/)
 
-### End to End Learning for Self-Driving Cars
+#### Europilot
+- [Repository](https://github.com/marsauto/europilot)
+
+#### End to End Learning for Self-Driving Cars
 - [Paper](https://arxiv.org/pdf/1604.07316v1.pdf) (Paper) 
 - [Repository - Autopilot](https://github.com/akshaybahadur21/Autopilot) (Repo) 
 - [Repository - Autopilot Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow) (Repo) 
 
-### CLRNet: Cross Layer Refinement Network for Lane Detection
+#### CLRNet: Cross Layer Refinement Network for Lane Detection
 - [Paper](https://arxiv.org/pdf/2203.10350.pdf)
 - [Repository](https://github.com/Turoad/clrnet) 
 
-### YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception
+#### YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception
 - [Paper](https://arxiv.org/pdf/2208.11434v1.pdf)
 - [Repository](https://github.com/CAIC-AD/YOLOPv2)
 
-### Udacity Self Driving Car NanoDegree
+#### Udacity Self Driving Car NanoDegree
 - [Repository](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree)
 
-### Udacity: Self Driving Car
+#### Udacity: Self Driving Car
 - [Repository](https://github.com/ndrplz/self-driving-car)
 
-### Codes for Lane Detection
+#### Codes for Lane Detection
 - [Repository](https://github.com/cardwing/Codes-for-Lane-Detection)
 
-### Ultra Fast Lane Detection
+#### Ultra Fast Lane Detection
 - [Repository](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
+- [Paper](https://arxiv.org/pdf/2004.11757.pdf) (Paper)
 
-[Ultra Fast Lane Detection](https://arxiv.org/pdf/2004.11757.pdf) (Paper)
-
-### CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution
+#### CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution
 - [Repository](https://github.com/aliyun/conditional-lane-detection)
 - [Paper](https://arxiv.org/abs/2105.05003)
 
-### Lanedet
+#### Lanedet
 - [Repository](https://github.com/Turoad/lanedet)
 
 []() (Repo)
