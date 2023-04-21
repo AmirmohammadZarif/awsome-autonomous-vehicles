@@ -66,8 +66,13 @@
 #### Lanedet
 - [Repository](https://github.com/Turoad/lanedet)
 
-[]() (Repo)
-[]() (Repo)
+#### LaneATT
+- [Repository](https://github.com/lucastabelini/LaneATT)
+- [Paper](https://arxiv.org/abs/2010.12035)
 
+#### CULane
+- [Repository](https://xingangpan.github.io/projects/CULane.html)
 
+#### Pytorch Auto Drive
+- [Repository](https://github.com/voldemortX/pytorch-auto-drive)
 
