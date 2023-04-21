@@ -76,3 +76,6 @@
 #### Pytorch Auto Drive
 - [Repository](https://github.com/voldemortX/pytorch-auto-drive)
 
+#### VPGNet
+- [Repository](https://github.com/SeokjuLee/VPGNet)
+
