@@ -38,4 +38,18 @@
 [CLRNet: Cross Layer Refinement Network for Lane Detection](https://github.com/Turoad/clrnet) (Repo) 
 
 [YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception](https://arxiv.org/pdf/2208.11434v1.pdf) (Paper) 
-() []()
+
+[Udacity Self Driving Car NanoDegree](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree) (Repo)
+
+[Udacity: Self Driving Car](https://github.com/ndrplz/self-driving-car) (Repo)
+
+[Codes for Lane Detection](https://github.com/cardwing/Codes-for-Lane-Detection) (Repo)
+
+[Ultra Fast Lane Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) (Repo)
+
+[Ultra Fast Lane Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) (Repo)
+
+[]() (Repo)
+
+
+
