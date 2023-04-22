@@ -82,6 +82,8 @@
 
 ## Tracking
 
+## Planning
+
 ## Control
 #### iLQR for Piecewise Smooth Hybrid Dynamical Systems
 - [Video](https://www.youtube.com/watch?v=_rcM68X6gOE)
