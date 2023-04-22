@@ -79,3 +79,11 @@
 #### VPGNet
 - [Repository](https://github.com/SeokjuLee/VPGNet)
 
+
+#### iLQR for Piecewise Smooth Hybrid Dynamical Systems
+- [Presentation](https://www.youtube.com/watch?v=_rcM68X6gOE)
+- [Paper](https://arxiv.org/pdf/2103.14584.pdf)
+
+
+#### RAT iLQR: A Risk Auto-Tuning Controller to Optimally Account for Stochastic Model Mismatch
+- [Presentation](https://www.youtube.com/watch?v=y90HftYTGjc)
