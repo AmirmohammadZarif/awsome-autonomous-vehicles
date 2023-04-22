@@ -80,6 +80,7 @@
 - [Repository](https://github.com/SeokjuLee/VPGNet)
 
 
+## Control
 #### iLQR for Piecewise Smooth Hybrid Dynamical Systems
 - [Video](https://www.youtube.com/watch?v=_rcM68X6gOE)
 - [Paper](https://arxiv.org/pdf/2103.14584.pdf)
@@ -87,3 +88,7 @@
 
 #### RAT iLQR: A Risk Auto-Tuning Controller to Optimally Account for Stochastic Model Mismatch
 - [Video](https://www.youtube.com/watch?v=y90HftYTGjc)
+
+#### Motion Control of Self-Driving Car for Trajectory Tracking 
+- [Repository](https://github.com/Tinker-Twins/Self_Driving_Car_Trajectory_Tracking)
+- [Paper](https://arxiv.org/pdf/2011.08729v3.pdf)
