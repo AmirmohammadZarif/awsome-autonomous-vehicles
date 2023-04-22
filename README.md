@@ -34,9 +34,9 @@
 - [Repository](https://github.com/marsauto/europilot)
 
 #### End to End Learning for Self-Driving Cars
-- [Paper](https://arxiv.org/pdf/1604.07316v1.pdf) (Paper) 
-- [Repository - Autopilot](https://github.com/akshaybahadur21/Autopilot) (Repo) 
-- [Repository - Autopilot Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow) (Repo) 
+- [Paper](https://arxiv.org/pdf/1604.07316v1.pdf)
+- [Repository - Autopilot](https://github.com/akshaybahadur21/Autopilot)
+- [Repository - Autopilot Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow)
 
 #### CLRNet: Cross Layer Refinement Network for Lane Detection
 - [Paper](https://arxiv.org/pdf/2203.10350.pdf)
@@ -57,7 +57,7 @@
 
 #### Ultra Fast Lane Detection
 - [Repository](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
-- [Paper](https://arxiv.org/pdf/2004.11757.pdf) (Paper)
+- [Paper](https://arxiv.org/pdf/2004.11757.pdf)
 
 #### CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution
 - [Repository](https://github.com/aliyun/conditional-lane-detection)
