@@ -80,6 +80,8 @@
 - [Repository](https://github.com/SeokjuLee/VPGNet)
 
 
+## Tracking
+
 ## Control
 #### iLQR for Piecewise Smooth Hybrid Dynamical Systems
 - [Video](https://www.youtube.com/watch?v=_rcM68X6gOE)
@@ -92,3 +94,4 @@
 #### Motion Control of Self-Driving Car for Trajectory Tracking 
 - [Repository](https://github.com/Tinker-Twins/Self_Driving_Car_Trajectory_Tracking)
 - [Paper](https://arxiv.org/pdf/2011.08729v3.pdf)
+
