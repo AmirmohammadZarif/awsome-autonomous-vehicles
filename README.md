@@ -66,6 +66,9 @@
 #### Lanedet
 - [Repository](https://github.com/Turoad/lanedet)
 
+#### Lanenet
+- [Repository](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+
 #### LaneATT
 - [Repository](https://github.com/lucastabelini/LaneATT)
 - [Paper](https://arxiv.org/abs/2010.12035)
@@ -78,6 +81,7 @@
 
 #### VPGNet
 - [Repository](https://github.com/SeokjuLee/VPGNet)
+
 
 
 ## Tracking
