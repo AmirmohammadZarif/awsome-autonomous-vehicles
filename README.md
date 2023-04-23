@@ -82,11 +82,14 @@
 #### VPGNet
 - [Repository](https://github.com/SeokjuLee/VPGNet)
 
-#### Awesome Lane Detection
+#### Awesome Lane Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - [Repository](https://github.com/amusi/awesome-lane-detection)
 
-#### Pytorch Auto Drive
+#### Pytorch Auto Drive 
 - [Repository](https://github.com/voldemortX/pytorch-auto-drive)
+
+#### BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline
+
 
 ## Tracking
 
