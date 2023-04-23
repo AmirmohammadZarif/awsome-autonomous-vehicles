@@ -82,7 +82,8 @@
 #### VPGNet
 - [Repository](https://github.com/SeokjuLee/VPGNet)
 
-
+#### Awesome Lane Detection
+- [Repository](https://github.com/amusi/awesome-lane-detection)
 
 ## Tracking
 
