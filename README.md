@@ -103,7 +103,7 @@
 #### Advance Lane Finding
 - [Repository](https://github.com/shawshany/Advance_LaneFinding)
 
-#### Udacity: Machine Learning NanoDegree
+#### Udacity: Machine Learning NanoDegree Capstone
 - [Repository](https://github.com/mvirgo/MLND-Capstone)
 
 ## Tracking
