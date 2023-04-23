@@ -85,6 +85,9 @@
 #### Awesome Lane Detection
 - [Repository](https://github.com/amusi/awesome-lane-detection)
 
+#### Pytorch Auto Drive
+- [Repository](https://github.com/voldemortX/pytorch-auto-drive)
+
 ## Tracking
 
 ## Planning
