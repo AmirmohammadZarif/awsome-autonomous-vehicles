@@ -92,12 +92,14 @@
 - [Repository](https://github.com/voldemortX/pytorch-auto-drive)
 
 #### BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline
+- [Repository](https://github.com/gigo-team/bev_lane_det)
 
 #### Codes for lane detection
 - [Repository](https://github.com/cardwing/Codes-for-Lane-Detection)
 
 #### Unsupervised LLAMAS
 - [Repository](https://github.com/karstenBehrendt/unsupervised_llamas)
+
 
 ## Tracking
 
